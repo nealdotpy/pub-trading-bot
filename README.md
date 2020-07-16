@@ -4,7 +4,9 @@ A python implementation of API trading. The bot will facilitate trades utilizing
 Read the article describing the project here: https://medium.com/@nealdotpy/if-i-cant-make-money-my-python-trading-bot-will-368a592b3c6d
 
 **This repository hosts code that generally outlines the first strategy I used. 
-A more detailed repository exists; however due to the nature of algorithmic trading, they are private.**
+A more detailed repository exists; however, due to the nature of algorithmic trading, they are private.**
+
+This repository exists as a proof-of-concept.
 
 # FUNCTIONALITY
 This program will include the following features:

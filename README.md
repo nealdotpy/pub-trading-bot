@@ -1,7 +1,8 @@
 # PYTHON TRADING BOT
+### Read the article describing the project here: https://medium.com/@nealdotpy/if-i-cant-make-money-my-python-trading-bot-will-368a592b3c6d
+
 A python implementation of API trading. The bot will facilitate trades utilizing the Alpaca Platform (initially using the paper endpoint.)
 
-Read the article describing the project here: https://medium.com/@nealdotpy/if-i-cant-make-money-my-python-trading-bot-will-368a592b3c6d
 
 **This repository hosts code that generally outlines the first strategy I used. 
 A more detailed repository exists; however, due to the nature of algorithmic trading, they are private.**
